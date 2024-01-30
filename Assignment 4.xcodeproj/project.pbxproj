@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		EB4376502B68B31800EA7A7C /* song.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = EB43764F2B68B31800EA7A7C /* song.mp3 */; };
+		EB6317502B68DDA500F3CC3F /* song.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = EB63174F2B68DD9600F3CC3F /* song.mp3 */; };
 		EB84EE4B2B6818E6002689DB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB84EE4A2B6818E6002689DB /* AppDelegate.swift */; };
 		EB84EE4D2B6818E6002689DB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB84EE4C2B6818E6002689DB /* SceneDelegate.swift */; };
 		EB84EE4F2B6818E6002689DB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB84EE4E2B6818E6002689DB /* ViewController.swift */; };
@@ -37,8 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		EB43764F2B68B31800EA7A7C /* song.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = song.mp3; path = ../../../Downloads/song.mp3; sourceTree = "<group>"; };
-		EB59A7962B68D5D1006C4C92 /* song.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = song.mp3; path = ../../../../Downloads/song.mp3; sourceTree = "<group>"; };
+		EB6317492B68DCD000F3CC3F /* song.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = song.mp3; path = ../../../Downloads/song.mp3; sourceTree = "<group>"; };
+		EB63174F2B68DD9600F3CC3F /* song.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = song.mp3; path = ../../../../Downloads/song.mp3; sourceTree = "<group>"; };
 		EB84EE472B6818E6002689DB /* Assignment 4.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Assignment 4.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB84EE4A2B6818E6002689DB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EB84EE4C2B6818E6002689DB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -82,7 +82,7 @@
 		EB84EE3E2B6818E6002689DB = {
 			isa = PBXGroup;
 			children = (
-				EB43764F2B68B31800EA7A7C /* song.mp3 */,
+				EB6317492B68DCD000F3CC3F /* song.mp3 */,
 				EB84EE492B6818E6002689DB /* Assignment 4 */,
 				EB84EE602B6818E8002689DB /* Assignment 4Tests */,
 				EB84EE6A2B6818E8002689DB /* Assignment 4UITests */,
@@ -106,8 +106,8 @@
 				EB84EE4A2B6818E6002689DB /* AppDelegate.swift */,
 				EB84EE4C2B6818E6002689DB /* SceneDelegate.swift */,
 				EB84EE4E2B6818E6002689DB /* ViewController.swift */,
-				EB59A7962B68D5D1006C4C92 /* song.mp3 */,
 				EB84EE502B6818E6002689DB /* Main.storyboard */,
+				EB63174F2B68DD9600F3CC3F /* song.mp3 */,
 				EB84EE532B6818E8002689DB /* Assets.xcassets */,
 				EB84EE552B6818E8002689DB /* LaunchScreen.storyboard */,
 				EB84EE582B6818E8002689DB /* Info.plist */,
@@ -236,7 +236,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EB4376502B68B31800EA7A7C /* song.mp3 in Resources */,
+				EB6317502B68DDA500F3CC3F /* song.mp3 in Resources */,
 				EB84EE572B6818E8002689DB /* LaunchScreen.storyboard in Resources */,
 				EB84EE542B6818E8002689DB /* Assets.xcassets in Resources */,
 				EB84EE522B6818E6002689DB /* Main.storyboard in Resources */,
