@@ -38,6 +38,7 @@
 
 /* Begin PBXFileReference section */
 		EB43764F2B68B31800EA7A7C /* song.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = song.mp3; path = ../../../Downloads/song.mp3; sourceTree = "<group>"; };
+		EB59A7962B68D5D1006C4C92 /* song.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = song.mp3; path = ../../../../Downloads/song.mp3; sourceTree = "<group>"; };
 		EB84EE472B6818E6002689DB /* Assignment 4.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Assignment 4.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB84EE4A2B6818E6002689DB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EB84EE4C2B6818E6002689DB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -105,6 +106,7 @@
 				EB84EE4A2B6818E6002689DB /* AppDelegate.swift */,
 				EB84EE4C2B6818E6002689DB /* SceneDelegate.swift */,
 				EB84EE4E2B6818E6002689DB /* ViewController.swift */,
+				EB59A7962B68D5D1006C4C92 /* song.mp3 */,
 				EB84EE502B6818E6002689DB /* Main.storyboard */,
 				EB84EE532B6818E8002689DB /* Assets.xcassets */,
 				EB84EE552B6818E8002689DB /* LaunchScreen.storyboard */,
